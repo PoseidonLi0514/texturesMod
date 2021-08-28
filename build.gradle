@@ -12,7 +12,7 @@ buildscript {
 apply plugin: 'net.minecraftforge.gradle'
 
 group = 'ade'
-version = 'Preview1'
+version = 'Preview2'
 
 java {
     archivesBaseName = 'texturesmod'
